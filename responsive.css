@@ -4,6 +4,12 @@
 @media all and(max-width: 670px){
     .menu-icon{
         display: block;
+        color: white;
+        color: white;
+        float: right;
+        font-size: 30px;
+        padding: 25px 0;
+        margin-top: 10px;
     }
     .header-right{
         display: none;
