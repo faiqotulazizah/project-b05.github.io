@@ -1,5 +1,14 @@
 @media (max-width: 1000px) {
-
+    .footer-right{
+        width: 50%;
+        margin-bottom: 50px;
+    }
+    .footer-left{
+        width: 50%;
+    }
+    footer{
+        height: 300px;
+    }
 }
 @media (max-width: 670px){
     .menu-icon{
@@ -8,4 +17,14 @@
     .header-right{
         display: none;
       }
+    .footer-left{
+        width: 100%;
+    }
+    .footer-right{
+        width: 100%;
+    }
+    footer{
+        height: 425px;
+        text-align: center;
+    }
 }
